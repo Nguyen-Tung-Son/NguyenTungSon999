@@ -168,3 +168,8 @@ C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\CompanyNTS999\
 C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\CompanyNTS999\Details.cshtml.g.cs
 C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\CompanyNTS999\Edit.cshtml.g.cs
 C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\CompanyNTS999\Index.cshtml.g.cs
+C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\NTS0999\Create.cshtml.g.cs
+C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\NTS0999\Delete.cshtml.g.cs
+C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\NTS0999\Details.cshtml.g.cs
+C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\NTS0999\Edit.cshtml.g.cs
+C:\NguyenTungSon999\NguyenTungSon999\obj\Debug\net5.0\Razor\Views\NTS0999\Index.cshtml.g.cs

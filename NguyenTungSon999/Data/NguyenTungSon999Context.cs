@@ -13,4 +13,6 @@ using NguyenTungSon999;
         }
 
         public DbSet<NguyenTungSon999.CompanyNTS999> CompanyNTS999 { get; set; }
+
+        public DbSet<NguyenTungSon999.NTS0999> NTS0999 { get; set; }
     }
