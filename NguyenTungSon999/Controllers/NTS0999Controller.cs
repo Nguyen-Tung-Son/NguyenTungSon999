@@ -11,6 +11,7 @@ namespace NguyenTungSon999.Controllers
 {
     public class NTS0999Controller : Controller
     {
+       
         private readonly NguyenTungSon999Context _context;
 
         public NTS0999Controller(NguyenTungSon999Context context)
@@ -57,6 +58,7 @@ namespace NguyenTungSon999.Controllers
         {
             if (ModelState.IsValid)
             {
+            
                 _context.Add(nTS0999);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -96,6 +98,7 @@ namespace NguyenTungSon999.Controllers
             {
                 try
                 {
+                
                     _context.Update(nTS0999);
                     await _context.SaveChangesAsync();
                 }
