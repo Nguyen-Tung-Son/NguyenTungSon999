@@ -16555,6 +16555,16 @@
   "RootNamespace": "NguyenTungSon999",
   "Documents": [
     {
+      "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\NTS0999\\Edit.cshtml",
+      "TargetPath": "Views\\NTS0999\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\NTS0999\\Create.cshtml",
+      "TargetPath": "Views\\NTS0999\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\UniversityNTS999\\Delete.cshtml",
       "TargetPath": "Views\\UniversityNTS999\\Delete.cshtml",
       "FileKind": "mvc"
@@ -16562,6 +16572,11 @@
     {
       "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\NTS0999\\Delete.cshtml",
+      "TargetPath": "Views\\NTS0999\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16585,6 +16600,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\NTS0999\\Index.cshtml",
+      "TargetPath": "Views\\NTS0999\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16602,6 +16622,11 @@
     {
       "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\UniversityNTS999\\Index.cshtml",
       "TargetPath": "Views\\UniversityNTS999\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NguyenTungSon999\\NguyenTungSon999\\Views\\NTS0999\\Details.cshtml",
+      "TargetPath": "Views\\NTS0999\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

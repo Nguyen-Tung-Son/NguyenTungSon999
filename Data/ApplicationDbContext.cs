@@ -15,5 +15,7 @@ namespace NguyenTungSon999.Data
         }
 
         public DbSet<NguyenTungSon999.Models.UniversityNTS999> UniversityNTS999 { get; set; } = default!;
+
+        public DbSet<NguyenTungSon999.Models.NTS0999> NTS0999 { get; set; } = default!;
     }
 }
